@@ -2,7 +2,7 @@
 
 ![1](https://github.com/hyuFrontiers/.github/assets/122873008/c32c082b-d7cc-4272-9dbe-52fb42f58ac4)
 
-## Hi there 👋
+## Hi there
 
 Frontiers Academy at HAI LAB in Hanyang University ERICA
 
