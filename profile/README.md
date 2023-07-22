@@ -4,11 +4,9 @@
 
 ## Hi there 👋
 
-
+Frontiers Academy at HAI LAB in Hanyang University ERICA
 
 ## Member
-
-Frontiers Academy at HAI LAB in Hanyang University ERICA
 
 ### 1기
 
